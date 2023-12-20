@@ -45,7 +45,3 @@ O que usamos:
 O projeto final foi criado para subir para um servidor. E testar, porém não tivemos sucesso, pois não achamos servidores free.
 Então, por enquando não podemos fazer o teste desse algoritmo em tempo real. Fico devendo!
 
-Fizemos o deploy do projeto no Streamlit, você pode acompanhar: <a href="https://fernandobatistads-challenge-main-page-8lreld.streamlit.app" target="_blank">Por aqui</a>
-
-
-
